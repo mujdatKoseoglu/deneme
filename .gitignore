@@ -1,0 +1,8 @@
+*.png
+*.jpg
+*.mp3
+*.mp4
+
+/img
+
+password.txt
